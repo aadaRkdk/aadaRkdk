@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, World! 👋 Welcome to **Aadarsha's GitHub Profile!**
 
-<!--
-**aadaRkdk/aadaRkdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics, Communication, and Information Engineering student and a passionate aspiring **DevOps Engineer**.  
+I’m constantly learning and exploring new technologies to grow my skill set and contribute to impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Front-end:** HTML, CSS, JavaScript, React, Next.js  
+- **Back-end:** Node.js, Express.js *(Beginner)*  
+- **Database:** PostgreSQL, MongoDB *(Beginner)*  
+- **Programming Languages:** C/C++, JavaScript  
+- **Version Control:** Git  
+- **Other Tools & Technologies:** Linux, Shell Scripting, Docker
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [aadarsha-k](https://www.linkedin.com/in/aadarsha-k-3053651b6/)
+
+---
+
+## 📊 GitHub Stats
+
+![Aadarsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadaRkdk&show_icons=true&count_private=true&hide_title=true&theme=dark)
+
+---
