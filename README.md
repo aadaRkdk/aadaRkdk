@@ -1,12 +1,13 @@
-# Hello, World! 👋 Welcome to **Aadarsha's GitHub Profile!**
+<h1 align="center">Hello, World! 👋 Welcome to <strong>Aadarsha's GitHub Profile!</strong></h1>
 
-🎓 **Electronics, Communication, and Information Engineering** Student  
-
-Constantly learning and exploring new technologies to expand my skill set and build impactful projects.
+<p align="center">
+🎓 <strong>Electronics, Communication, and Information Engineering</strong> Student  
+<br>Constantly learning and exploring new technologies to expand my skill set and build impactful projects.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -59,7 +60,9 @@ Constantly learning and exploring new technologies to expand my skill set and bu
 
 ---
 
-## 📊 GitHub Insights
+<h2 align="center">📊 GitHub Insights</h2>
+
+<div align="center">
 
 <table>
   <tr>
@@ -77,26 +80,33 @@ Constantly learning and exploring new technologies to expand my skill set and bu
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadaRkdk&theme=dracula&no-frame=false&no-bg=true&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aadaRkdk&theme=onedark&no-frame=false&no-bg=true&margin-w=8"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aadarsha-k-3053651b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadarkdk/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/khadka_aadar">
+  <a href="https://x.com/aadarKdk">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aadar_kdk/">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
