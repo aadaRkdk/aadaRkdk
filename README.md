@@ -100,9 +100,3 @@ Constantly learning and exploring new technologies to expand my skill set and bu
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aadaRkdk&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
