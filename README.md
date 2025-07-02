@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋 Welcome to <strong>Aadarsha's GitHub Profile!</strong></h1>
 
 <p align="center">
-🎓 <strong>Electronics, Communication, and Information Engineering</strong> Student  
+🎓 <strong>Electronics, Communication, and Information Engineering</strong> Graduate  
 <br>Constantly learning and exploring new technologies to expand my skill set and build impactful projects.
 </p>
 
